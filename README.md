@@ -16,6 +16,9 @@ As additional fixes were identified during testing, the repository includes an u
 
 ![](Meritum2.png)
 
+Side view of the computer with connectors:<br>
+![](Meritum2_PCBs_stack2.png)
+
 Example startup screen:<br>
 
 ![](Meritum2_screen1.png)
