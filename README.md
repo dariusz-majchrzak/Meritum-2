@@ -1,4 +1,4 @@
-# Meritum-2 8-bit computer
+# Meritum-2: Polish 8-bit Home Computer
 This repository provides all the files needed to build a **Meritum 1 (Model 2) = Meritum2** ( https://pl.wikipedia.org/wiki/Meritum_(komputer) ) hardware recreation, closely following the design of the first microcomputer to be mass‑produced in Poland.<br>
 
 **Meritum 1 (Model 2)** <br>
