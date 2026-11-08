@@ -10,7 +10,8 @@ Basic Technical Specifications:
 * Peripherals: serial interface (i8251), parallel interface (i8255), tape interface, fdd interface
 * Colors: Monochrome
 <br>
-On November 11, 2026, there is 1 successful build (based on this pcb project), 3 based on previous version of PCB.<br>
+As of November 11, 2026, there is one successful build based on this PCB revision and three successful builds based on a previous PCB revision.<br>
+
 As additional fixes were identified during testing, the repository includes an updated PCB revision (Rev. 1.2), whereas the PCB shown in the photo is Rev. 1.1. <br>
 <br>
 
