@@ -17,6 +17,9 @@ As additional fixes were identified during testing, the repository includes an u
 
 ![](Meritum2.png)
 
+Top view of the mainboard:<br>
+![](Meritum2_PGW_TOP.png)
+
 Side view of the computer with connectors:<br>
 ![](Meritum2_PCBs_stack2.png)
 
