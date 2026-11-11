@@ -7,7 +7,7 @@ Basic Technical Specifications:
 * ROM: 14 KB (BASIC)
 * Video Memory: 1 KB (RAMS)
 * Display Modes: Text — 16×64 or 16×32
-* Peripherals: serial interface (i8251), parallel interface (i8255), tape interface, fdd interface
+* Peripherals: serial interface (i8251), parallel interface (i8255), tape interface, fdd interface (i8255)
 * Colors: Monochrome
 <br>
 As of November 11, 2026, there is one successful build based on this PCB revision and three successful builds based on a previous PCB revision.<br>
